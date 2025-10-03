@@ -63,3 +63,5 @@ Built with ❤️ by Saudatu
 ```bash
 git clone https://github.com/Saudii81/devfest_ai_agent.git
 cd devfest_ai_agent
+```
+You can copy this directly into your repo’s `README.md` file. Let me know if you’d like to add a badge, screenshot, or demo link next!
