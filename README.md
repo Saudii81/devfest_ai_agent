@@ -39,7 +39,9 @@ Share your target Google Sheet with the service account email (found in the cred
 Visit Google AI Studio to generate your Gemini API key
 
 Add the key to your environment or directly into the notebook: 
-
+```
+GEMINI_API_KEY = "your-api-key-here"
+```
 ### Run the notebook
 Launch Jupyter and open the notebook: 
 ```
