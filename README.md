@@ -63,5 +63,3 @@ Built with ❤️ by Saudatu
 ```bash
 git clone https://github.com/Saudii81/devfest_ai_agent.git
 cd devfest_ai_agent
-bash```
-
