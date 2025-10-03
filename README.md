@@ -23,7 +23,9 @@ Welcome to the **DevFest Registration AI Agent**! This project demonstrates how 
 ### Install dependencies
 
 Make sure you have Python 3.8+ installed, then run: 
- pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 ### Configure Google Sheets API
 Go to Google Cloud Console
 
