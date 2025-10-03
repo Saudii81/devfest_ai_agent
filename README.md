@@ -40,7 +40,11 @@ Visit Google AI Studio to generate your Gemini API key
 
 Add the key to your environment or directly into the notebook: 
 
-
+Run the notebook
+Launch Jupyter and open the notebook: 
+```
+jupyter notebook DevFest_Reg_AI_Agent.ipynb
+```
 
 ### 🧠 How It Works
 The user interacts with the agent via text prompts.
